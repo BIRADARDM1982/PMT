@@ -6,3 +6,15 @@
     border-radius: 4PX;
     text-shadow: 34pt;
 }
+b{
+    color: crimson;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: dotted;
+}
+select{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: double;
+
+}
